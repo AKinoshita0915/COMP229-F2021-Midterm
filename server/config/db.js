@@ -9,5 +9,6 @@
 module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books229"
+  //MongoDB atlas deployment
   "URI": "mongodb+srv://aKinoshi:QtxoEY0YigMwR0Pf@midtermcomp229fall2021.dett5.mongodb.net/books?retryWrites=true&w=majority"
 };
