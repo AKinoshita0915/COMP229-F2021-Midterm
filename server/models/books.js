@@ -5,6 +5,7 @@
  * Web App name: comp229-f2021-midterm
  */
 
+
 let mongoose = require('mongoose');
 
 // create a model class
